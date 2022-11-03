@@ -4679,6 +4679,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ba158ff05cf30224f94bfdddec8e7635, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Positions: []
+  jugador: {fileID: 0}
   m_moveSpeed: 2
   m_turnSpeed: 200
   m_jumpForce: 4
